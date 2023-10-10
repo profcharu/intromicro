@@ -1,7 +1,7 @@
 +++
 title = "Week 4"
 hascode = true
-date = Date(2023, 9, 27)
+date = Date(2023, 10, 10)
 rss = "Week 4"
 
 tags = ["week4"]
@@ -13,6 +13,12 @@ tags = ["week4"]
 \toc
 
 A playlist for this week's lecture videos is available [here](https://www.youtube.com/playlist?list=PLBl3tyVmUuVgqB19q6b86AwjSLi-5N4Hi).
+
+## General VS Partial Equilibrium
+
+~~~
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1U-XNf_DXoA?si=kpf-ThYZaHpNmwuR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
 
 ## Putting Supply and Demand Together
 
