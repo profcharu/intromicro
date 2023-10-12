@@ -43,12 +43,16 @@ A playlist for this week's lecture videos is available [here](https://www.youtub
 
 ## Budget Constraints Further Explained
 
-Coming Soon!
+~~~
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NNtGszOV4Pg?si=Ffq_BEyoXLW5AVIj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
 
 
 ## Savings
 
-Coming Soon!
+~~~
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_nFiyU-ky5Y?si=FX41J0FqScoCYvmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
 
 
 ## Budget Constraints & Maximal Utility
