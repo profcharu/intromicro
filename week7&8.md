@@ -1,14 +1,14 @@
 +++
-title = "Week 7"
+title = "Week 7 & 8"
 hascode = true
-date = Date(2023, 10, 19)
-rss = "Week 7"
+date = Date(2023, 10, 24)
+rss = "Week 7 & 8"
 
-tags = ["week7"]
+tags = ["week7" "week8"]
 +++
 
 
-# Week 7
+# Week 7 & Week 8
 
 \toc
 
