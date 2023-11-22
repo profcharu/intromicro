@@ -4,7 +4,7 @@ hascode = true
 date = Date(2023, 10, 24)
 rss = "Week 7 & 8"
 
-tags = ["week7" "week8"]
+tags = ["week7", "week8"]
 +++
 
 
