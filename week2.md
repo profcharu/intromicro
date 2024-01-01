@@ -21,7 +21,7 @@ A playlist for this week's lecture videos is available [here](https://www.youtub
 ~~~
 
 
-## Production Possibilities Frontier: Part 1
+## Production Possibilities Frontier: Part 2
 
 ~~~
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/19z71MOVrfY?si=TfSz0b8W0R5Evlkd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
